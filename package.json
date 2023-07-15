@@ -1,11 +1,11 @@
 {
     "name": "NarutoRP-Launcher",
     "preductname": "NarutoRP Launcher",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "description": "Launcher Mincraft custom (crack, premium)",
     "main": "src/app.js",
     "author": "Vasolix",
-    "url": "http://narutorp.vasolix.xyz/launcherfiles",
+    "url": "http://launcher.vasolix.xyz/",
     "engines": {
         "node": "^18.x.x"
     },
