@@ -22,18 +22,16 @@ class Splash {
   async startAnimation() {
     let splashes = [
       {
-        message:
-          "Je ne reviens jamais sur ma parole, c’est ça pour moi être un ninja !",
-        author: "Naruto Uzumaki",
+        message: "Noan c un gros pd",
+        author: "Vasolix",
       },
       {
         message: "Avec de l'entrainement, même un raté peut devenir un génie.",
         author: "Rock Lee",
       },
       {
-        message:
-          "Se pardonner et s'accepter tel que l'on est, voila ce que signifie être fort.",
-        author: "Itachi Uchiha",
+        message: "Sweetzy t raciste ?",
+        author: "Jean",
       },
     ];
     let splash = splashes[Math.floor(Math.random() * splashes.length)];

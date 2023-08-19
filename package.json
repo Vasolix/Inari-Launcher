@@ -1,7 +1,7 @@
 {
-    "name": "NarutoRP-Launcher",
-    "preductname": "NarutoRP Launcher",
-    "version": "1.0.4",
+    "name": "Inari-Launcher",
+    "preductname": "Inari Launcher",
+    "version": "1.0.5",
     "description": "Launcher Mincraft custom (crack, premium)",
     "main": "src/app.js",
     "author": "Vasolix",
@@ -34,6 +34,6 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/Vasolix/NarutoRP-Launcher.git"
+        "url": "git+https://github.com/Vasolix/Inari-Launcher.git"
     }
 }
