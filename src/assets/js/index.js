@@ -26,8 +26,9 @@ class Splash {
         author: "Vasolix",
       },
       {
-        message: "Avec de l'entrainement, même un raté peut devenir un génie.",
-        author: "Rock Lee",
+        message:
+          "Alaqada c'est l'aigris originel, mais il n'accepte pas ce fait réel",
+        author: "Vasolix",
       },
       {
         message: "Sweetzy t raciste ?",
@@ -46,7 +47,7 @@ class Splash {
     this.splashMessage.classList.add("opacity");
     this.splashAuthor.classList.add("opacity");
     this.message.classList.add("opacity");
-    await sleep(5000);
+    await sleep(3000);
     this.checkUpdate();
   }
 
